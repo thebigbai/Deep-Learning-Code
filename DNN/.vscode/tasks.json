@@ -1,9 +1,0 @@
-{
-    // See https://go.microsoft.com/fwlink/?LinkId=733558
-    // for the documentation about the tasks.json format
-    "version": "0.1.0",
-    "command": "/home/viki/miniconda3/envs/carnd-term1/bin/python3",
-    "isShellCommand": true,
-    "args": ["main.py"],
-    "showOutput": "always"
-}
